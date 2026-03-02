@@ -1,6 +1,5 @@
 ### Hi there 👋
 
+![Kristijan's github stats](./profile/stats.svg)
 
-[![Kristijan's github stats](https://github-readme-stats.vercel.app/api?username=kristijanhusak)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijanhusak&layout=compact)
+![Top Langs](./profile/top-langs.svg)
