@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kristijan Husak's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 6502, Total Commits  (last year) : 525, Total PRs: 228, Total Issues: 401, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 6503, Total Commits  (last year) : 525, Total PRs: 228, Total Issues: 401, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.646256752840188;
+        stroke-dashoffset: 13.647726970573371;
       }
     }
   
